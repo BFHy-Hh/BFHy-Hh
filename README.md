@@ -14,7 +14,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-![header](https://capsule-render.vercel.app/api?type=Rect&color=gradient&text=%20ㅁ니러지ㅑ더ㅣㅏ얼%20&height=300&fontSize=90&textBg=false)
+![header](https://capsule-render.vercel.app/api?type=Rect&color=gradient&text=%20호연호현호연호현%20&height=300&fontSize=90&textBg=false)
 
 ## BE 
 <div>
