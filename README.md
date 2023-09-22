@@ -16,6 +16,8 @@ Here are some ideas to get you started:
 
 ![header](https://capsule-render.vercel.app/api?type=Rect&color=gradient&text=%20호연호현호연호현%20&height=300&fontSize=90&textBg=false)
 
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?width=1200&center=true&color=24b220&lines=🧑‍🤝‍🧑+호연지기+🧑‍🤝‍🧑;)](https://git.io/typing-svg)
+
 ## BE 
 <div>
 	<img src="https://img.shields.io/badge/Java-007396?style=flat&logo=Java&logoColor=white" />
