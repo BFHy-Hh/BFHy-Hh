@@ -23,6 +23,7 @@ Here are some ideas to get you started:
 -->
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=300&section=header&text=BFHy-Hh&fontSize=90" />
+#[![Typing SVG](https://readme-typing-svg.herokuapp.com/?width=1200&center=true&color=24b220&lines=🧑‍🤝‍🧑+호연지기+🧑‍🤝‍🧑;)](https://git.io/typing-svg)
 
 ## BE 
 <div>
