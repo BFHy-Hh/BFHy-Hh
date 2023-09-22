@@ -14,12 +14,12 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-<div>
+<div style='width: 100%'>
 	<img src="https://capsule-render.vercel.app/api?type=waving&color=BDBDC8&height=200&section=header&text=안녕&nbsp나의&nbsp호연지기&fontSize=14px" />
 </div>
 
 ## BE 
-<div style='width: 100%'>
+<div>
 	<img src="https://img.shields.io/badge/Java-007396?style=flat&logo=Java&logoColor=white" />
 </div>
 
