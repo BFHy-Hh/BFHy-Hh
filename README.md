@@ -13,7 +13,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=BDBDC8&height=150&width=1000&section=header&text=안녕&nbsp나의&nbsp호연지기&fontSize=14px" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=BDBDC8&height=200&section=header&text=안녕&nbsp나의&nbsp호연지기&fontSize=14px" />
 
 <div align="center">
 	<img src="https://img.shields.io/badge/Java-007396?style=flat&logo=Java&logoColor=white" />
@@ -21,8 +21,9 @@ Here are some ideas to get you started:
 	<img src="https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=CSS3&logoColor=white" />
 </div>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=BDBDC8&height=150&section=footer" />
+![](./profile-3d-contrib/profile-gitblock.svg)
+<img src="https://capsule-render.vercel.app/api?type=waving&color=BDBDC8&height=200&section=footer" />
 
 	
 
-![](./profile-3d-contrib/profile-gitblock.svg)
+
