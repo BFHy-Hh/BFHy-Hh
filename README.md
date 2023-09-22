@@ -14,15 +14,15 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-<--
+<!--
 ![header](https://capsule-render.vercel.app/api?type=Rect&color=gradient&text=%20호연호현호연호현%20&height=300&fontSize=90&textBg=false)
 -->
 
-<--
+<!--
 #[![Typing SVG](https://readme-typing-svg.herokuapp.com/?width=1200&center=true&color=24b220&lines=🧑‍🤝‍🧑+호연지기+🧑‍🤝‍🧑;)](https://git.io/typing-svg)
 -->
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=300&section=header&text=%20HELLO+BFHy-Hh%20&fontSize=90&textBg=false " />	
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=300&section=header&text=HELLO BFHy-Hh&fontSize=90&textBg=false " />
 
 ## BE 
 <div>
