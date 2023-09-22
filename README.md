@@ -19,7 +19,7 @@ Here are some ideas to get you started:
 </div>
 
 ## BE 
-<div>
+<div style='width: 100%'>
 	<img src="https://img.shields.io/badge/Java-007396?style=flat&logo=Java&logoColor=white" />
 </div>
 
