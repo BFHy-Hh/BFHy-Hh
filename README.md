@@ -14,8 +14,8 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-<div style='width: 100%'>
-	<img src="https://capsule-render.vercel.app/api?type=waving&color=BDBDC8&height=200&section=header&text=안녕&nbsp나의&nbsp호연지기&fontSize=14px" />
+<div>
+	<img src="https://capsule-render.vercel.app/api?type=waving&color=BDBDC8&height=200&width:100%&section=header&text=안녕&nbsp나의&nbsp호연지기&fontSize=14px" />
 </div>
 
 ## BE 
